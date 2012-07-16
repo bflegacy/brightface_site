@@ -1,0 +1,19 @@
+fr:
+  custom_fields:
+    type:
+      string: Texte
+      text: Zone de texte
+      select: Liste déroulante
+      boolean: Case à cocher
+      date: Date
+      file: Fichier
+      belongs_to: Appartient à
+      has_many: A plusieurs
+      many_to_many: A plusieurs et appartient à
+    text_formatting:
+      none: Aucun
+      html: HTML
+
+  errors:
+    messages:
+      blank: "doit être rempli(e)"

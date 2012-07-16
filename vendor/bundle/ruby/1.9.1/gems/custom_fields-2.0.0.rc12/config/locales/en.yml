@@ -1,0 +1,12 @@
+en:
+  custom_fields:
+    type:
+      string: Simple Input
+      text: Text
+      select: Select
+      boolean: Checkbox
+      date: Date
+      file: File
+      belongs_to: Belongs to
+      has_many: Has many
+      many_to_many: Many To Many
